@@ -286,3 +286,7 @@ __pycache__/
 *.btm.cs
 *.odx.cs
 *.xsd.cs
+
+# Things that I added personally
+redis-3.2.9/*
+*.pem
